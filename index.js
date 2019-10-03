@@ -1,5 +1,5 @@
 //
-// Blackjack App
+// Basic Blackjack App
 // by Janelle Alexander
 //
 
